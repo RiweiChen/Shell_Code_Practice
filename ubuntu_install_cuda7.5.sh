@@ -10,6 +10,9 @@ sudo chmod +x  cuda*.run
 #执行
 ./cuda*.run
 
+# 有很多的license 用S键 跳过。
+
+
 #选择安装驱动、cuda tools、sample，
 #驱动如果之前有装好了可以不装
 #cuda tools 一般都需要装
